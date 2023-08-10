@@ -149,6 +149,7 @@ body:
       label: What versions of macOS are you seeing the problem on?
       multiple: true
       options:
+        - macOS 13, Ventura
         - macOS 12, Monterey
         - macOS 11, Big Sur
         - macOS 10.15, Catalina
